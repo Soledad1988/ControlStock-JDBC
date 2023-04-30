@@ -1,3 +1,4 @@
+package jdbc;
 import javax.swing.JFrame;
 
 import vista.ControlDeStockFrame;
